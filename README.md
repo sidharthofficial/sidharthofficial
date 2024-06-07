@@ -7,3 +7,15 @@ Passionate about AI and Data Analytics
 📫 How to reach me: siddharth.official4567@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'd love to be a farmer someday
+
+# Skills:
+
+Programming: Python | SQL
+Database: MySQL
+Technologies: Machine Learning | Deep Learning
+Cloud: AWS SageMaker | AWS S3 | AWS EC2
+Version Control: GIT | GitHub
+Frameworks: Scikit-Learn | PyTorch | Tensorflow
+Visualization: Matplotlib | Seaborn
+Data Analysis: Pandas | Numpy | Scipy
+Development: Streamlit | Flask
