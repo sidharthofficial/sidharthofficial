@@ -29,7 +29,7 @@ Cloud: AWS SageMaker | AWS S3 | AWS EC2
 
 Version Control: GIT | GitHub
 
-Frameworks: Scikit-Learn | PyTorch | Tensorflow
+Frameworks: Scikit-Learn | PyTorch | Tensorflow | H2O
 
 Visualization: Matplotlib | Seaborn
 
